@@ -45,9 +45,9 @@ Seeking for a position as a SOC analyst Level 1 role to develop expertise in thr
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/TryHackMe-SOC%20Level%201-2ECC71?style=for-the-badge&logo=tryhackme&logoColor=white" />
 <img src="https://img.shields.io/badge/Harvard-CS50%20Web%20Programming-A51C30?style=for-the-badge&logo=edx&logoColor=white" />
-
+<img src="https://img.shields.io/badge/TryHackMe-SOC%20Level%201-2ECC71?style=for-the-badge&logo=tryhackme&logoColor=white" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/o2W.png" alt="Your Image Badge" />
 
 
 </div>
