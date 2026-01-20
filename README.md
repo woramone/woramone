@@ -12,7 +12,7 @@ Seeking for a position as a SOC analyst Level 1 role to develop expertise in thr
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/woramone/Basic-Home-Labs">Basic Home Labs</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Active Directory Project</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/woramone/Active-Directory-Project">Active Directory Project</a>|
 <!-- | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -54,7 +54,7 @@ Seeking for a position as a SOC analyst Level 1 role to develop expertise in thr
 
 ## Projects
 - <a href="https://github.com/woramone/Basic-Home-Labs">Basic Home Labs</a>
-- 
+- <a href="https://github.com/woramone/Active-Directory-Project">Active Directory Project</a>
 
 ## Languages
 -	Thai(Native) 
