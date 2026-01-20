@@ -1,7 +1,7 @@
 # Hello, I'm WORAMONE JIWARA
 <a href="https://www.linkedin.com/in/woramone-jiwara-5732373a6"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Highly self-motivated and deep interest in cybersecurity.
+This is my documentation of learning. To achieve a career in cybersecurity.
 
 ## Objective
 
