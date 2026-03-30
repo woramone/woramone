@@ -1,11 +1,9 @@
 # Hello, I'm WORAMONE JIWARA PROMYAT
 <a href="https://www.linkedin.com/in/woramone-jiwara-5732373a6"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-This is my documentation of learning. To achieve a career in cybersecurity.
-
 ## Objective
 
-Seeking for a position as a SOC analyst Level 1 role to develop expertise in threat interlligence, vulnerability assessment, and incident triage. Committed to continuous learning and contributing to a dynamic security operations team. 
+Motivated and self-taught cybersecurity enthusiast with a strong interest in information security and hands-on learning through self-study and home labs, seeking an entry-level role while continuously building technical skills. 
 
 ## Skills
 
@@ -57,6 +55,6 @@ Seeking for a position as a SOC analyst Level 1 role to develop expertise in thr
 - <a href="https://github.com/woramone/Active-Directory-Project">Active Directory Project</a>
 
 ## Languages
--	Thai(Native) 
--	English(high) 
--	Spanish(A2-B1)
+-	Thai - Native
+-	English - Cambridge CEFR level B2  
+-	Spanish - DELE Nivel A2
