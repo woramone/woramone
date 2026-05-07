@@ -45,7 +45,7 @@ Motivated and self-taught cybersecurity enthusiast with a strong interest in inf
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/Harvard-CS50%20Web%20Programming-A51C30?style=for-the-badge&logo=edx&logoColor=white" />
 <img src="https://img.shields.io/badge/TryHackMe-SOC%20Level%201-2ECC71?style=for-the-badge&logo=tryhackme&logoColor=white" />
-<img src="https://tryhackme-badges.s3.amazonaws.com/o2W.png" alt="Your Image Badge" />
+<!--<img src="https://tryhackme-badges.s3.amazonaws.com/o2W.png" alt="Your Image Badge" /> -->
 
 
 </div>
